@@ -1,2 +1,2 @@
-# parkinson-s-finger-tapping-
+# parkinsons-finger-tapping
 raw data to clean data
