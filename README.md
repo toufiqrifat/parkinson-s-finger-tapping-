@@ -8,6 +8,7 @@ My Role
 
 Data Cleaning & Feature Extraction Specialist (Domain Role)
 
+
 Cleaning raw finger-tapping signals
 Removing noise and inconsistencies
 Normalising signal values
@@ -15,7 +16,9 @@ Structuring time-series data
 Preparing inputs for feature extraction and deep learning models
 
 This stage is critical as it directly affects model accuracy and reliability.
+
 Pipeline Overview
+
 
 The notebook implements the following steps:
 
